@@ -1,0 +1,78 @@
+body{
+background-color: #282828;
+font-family:arial, sans-serif;
+font-size: 14px;
+}
+
+.google{
+    position: relative;
+    left:500px;
+    top: 100px;
+}
+/*search-button*/
+.search-to-google{
+    background-color:#282828;
+    color: white;
+    width: 130px;
+    height:35px;
+    position: relative;
+    left: 200px;
+    top:215px;   
+}
+.im-lucky{
+    background-color: #282828;
+    color: white;
+    width: 230px;
+    height: 35px;
+    position:relative;
+    left:270px;
+    top:215px;
+
+}
+.language-text{
+    position: relative;
+    color:white;
+    left:450px;
+    top:200px;
+}
+.search{
+    width: 500px;
+    height: 30px;
+    position: relative;
+    left: 450px;
+    top: 55px;
+    background-color: dark;
+}
+
+/*Country */
+.country{
+    color: grey;
+}
+
+
+
+.About{
+    color:#999da2;
+    position: relative;
+    top:413px;
+}
+.Ad{
+    color:#999da2;
+    position:relative;
+    top:413px;
+    left:55px;
+}
+
+
+.search-icon{
+    width:40px;
+    position: relative;
+    bottom: 1px;
+    left:195px;
+}
+.language-switch{
+    position: relative;
+    top: 250px;
+    left:480px;
+    color: #bdc1c6;
+}
